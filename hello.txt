@@ -1,4 +1,0 @@
-hello
-world
-cym
-123
